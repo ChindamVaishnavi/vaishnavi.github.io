@@ -64,10 +64,12 @@ li {
   height:400px;
   width:400px;
 }
+.about{
+  float:left;
+}
 .about h5{
   padding-bottom:2px;
   font-size:25px;
-
 }
 .about p{
   padding-top:1px;
